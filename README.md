@@ -1,4 +1,4 @@
-# Project Title
+# My first github project
 
 Short description (what problem it solves, who it's for). Add a screenshot or GIF if helpful.
 
